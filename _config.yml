@@ -2,7 +2,9 @@ title: Secret Pizza Base da Pikalex
 author: Pikalex
 url: https://pikalex04.github.io/mkds-nw/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hello.
+  Hi and welcome to this forgotten piece of the internet!
+  This is "my" website. I don't even know if I will actually use it, but it might be handy to host or do some stuff, so I will at least set it up a bit.
+  Have fun exploring what is here!
 
 permalink: /:slug.html
 
@@ -31,9 +33,6 @@ theme_config:
     title_misc_list: Details
     title_blog: News
     title_old_projects: Old Projects
-
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
