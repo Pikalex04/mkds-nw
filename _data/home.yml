@@ -1,12 +1,15 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
-    url: blog
+  - title: News
+    url: news
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Mario Kart DS Network
+    url: https://discord.gg/pa9bea6
+    
+  - title: Mario Kart DS Modding
+    url: https://discordapp.com/invite/CAktUYP
 
 project_entries:
   - title: Project 1
@@ -54,17 +57,12 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/pikalex04
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+    url: https://github.com/Pikalex04
 
 misc_entries:
   - title: this is an example vertical list
