@@ -3,6 +3,8 @@ layout: post
 title: About
 ---
 
-This is an example page!
+# The Site
+This site is here with the only purpose to easily host some stuff.
 
-Actually, it has the same layout of a post...
+# The Theme
+Special thanks to [Abhinav Saxena](https://github.com/abhinavs), creator of this sexy theme, [Moonwalk](https://github.com/abhinavs/moonwalk).
