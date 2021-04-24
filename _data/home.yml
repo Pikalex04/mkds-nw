@@ -17,8 +17,6 @@ project_entries:
     desc: EKDS Time Trials database! ...Maybe!
     highlight: WIP
 
-old_project_entries:
-
 footer_entries:
 
   - title: twitter
@@ -26,7 +24,3 @@ footer_entries:
 
   - title: github
     url: https://github.com/Pikalex04
-
-misc_entries:
-
-
