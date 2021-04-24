@@ -18,9 +18,11 @@ project_entries:
     highlight: WIP
 
 footer_entries:
-
   - title: twitter
     url: https://twitter.com/pikalex04
 
   - title: github
     url: https://github.com/Pikalex04
+    
+misc_entries:
+  - post_list: true
